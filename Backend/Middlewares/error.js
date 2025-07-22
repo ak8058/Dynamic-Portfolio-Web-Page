@@ -1,3 +1,4 @@
+// for Error Code
 class ErrorHandler extends Error {
   constructor(message, statusCode) {
     super(message);
